@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="core.utils.MathTools"/>
+    <classEntry path="core.updater.DelayedExecution"/>
+    <classEntry path="core.collisions.ColliderStatic"/>
+    <classEntry path="core.collisions.CollisionData"/>
+    <classEntry path="core.collisions.QTree"/>
+    <classEntry path="core.collisions.QTreeNodeType"/>
+    <classEntry path="core.collisions.ICollision"/>
+    <classEntry path="core.collisions.GameRect2"/>
+    <classEntry path="core.mem.Mem"/>
+    <classEntry path="core.gameObjects.InstantiationParams"/>
+    <classEntry path="core.gameObjects.CCInstantiationParams"/>
+    <classEntry path="core.blitting.BListBase"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
